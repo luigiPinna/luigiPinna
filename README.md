@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Luigi's GitHub stats](https://github-readme-stats.vercel.app/api?username=luigiPinna)](https://github.com/luigiPinna/github-readme-stats&show_icons=true&theme=radical)
+[![Luigi's GitHub stats](https://github-readme-stats.vercel.app/api?username=luigiPinna&show_icons=true&theme=radical)](https://github.com/luigiPinna/github-readme-stats)
 
 <!--
 **luigiPinna/luigiPinna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
