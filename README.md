@@ -15,7 +15,10 @@
 </picture>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luigiPinna&layout=compact&show_icons=true&theme=transparent)](https://github.com/luigiPinna/github-readme-transparent)
+<picture>
+   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=luigiPinna&layout=compact&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+</picture>
 <!--
 **luigiPinna/luigiPinna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
