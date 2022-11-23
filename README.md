@@ -1,10 +1,26 @@
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+## Hi there 👋
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+### Work in progress bio 🛠
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+- 🔭 I’m currently working @Aevoluta as a backend developer 
+- 👯 I’m looking to collaborate on Open Source projects
+- 🌱 I’m currently improving javascript
+- 📫 How to reach me: www.luigipinna.com
+
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=luigiPinna&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=luigiPinna&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=luigiPinna&show_icons=true" />
+</picture>
+
+Skills: PYTHON / SQL / JAVA / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 
