@@ -20,7 +20,10 @@
 <img src="https://github-readme-stats.vercel.app/api?username=luigiPinna&show_icons=true" />
 </picture>
 <br>
-
+<br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=luigiPinna&theme=dark)](https://git.io/streak-stats)
+<br>
+<br>
 <picture>
   <source
    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=luigiPinna&layout=compact&show_icons=true&theme=dark"
