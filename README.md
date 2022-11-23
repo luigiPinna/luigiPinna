@@ -33,7 +33,7 @@
 </picture>
 
 <br>
-![](https://komarev.com/ghpvc/?username=luigiPinna&label=PROFILE+VIEWS&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=luigiPinna&label=PROFILE+VIEWS&style=flat-square)
 <br>
 #### See More about me 👇
 
