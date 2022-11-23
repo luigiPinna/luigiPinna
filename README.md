@@ -33,7 +33,7 @@
 </picture>
 
 <br>
-![counter](https://komarev.com/ghpvc/?username=luigiPinna&label=PROFILE+VIEWS&style=flat-square)
+![Visitor Count](https://profile-counter.glitch.me/{luigiPinna}/count.svg)
 <br>
 #### See More about me 👇
 
