@@ -7,7 +7,7 @@
 - 🌱 I’m currently improving javascript
 - 📫 How to reach me: www.luigipinna.com
 
-![Visitor Count](https://profile-counter.glitch.me/{luigiPinna}/count.svg)
+
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=luigiPinna&show_icons=true&theme=dark"
@@ -32,7 +32,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=luigiPinna&show_icons=true" />
 </picture>
 
-<br>
 
 <br>
 #### See More about me 👇
