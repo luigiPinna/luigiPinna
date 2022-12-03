@@ -1,10 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?height=200&type=waving&text=Welcome%20To%20My%20GitHub&fontSize=40&animation=fadeIn&color=gradient&customColorList=6)
 
-
-
-
 ### Work in progress bio 🛠
-
 
 ```python
 
