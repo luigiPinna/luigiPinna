@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?height=200&type=waving&text=Welcome%20To%20My%20GitHub&fontSize=40&animation=fadeIn&color=gradient&customColorList=4,3,2)
 
-## Hi there 👋
+## Hi there I'm **Luigi** 👋
 
 ### Work in progress bio 🛠
 
@@ -21,6 +21,17 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 
+### Technologies & Tools
+
+![Azure](https://img.shields.io/badge/-microsoftazure-000?&logo=microsoftazure&logoColor=3399ff)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
+![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![PyCharm](https://img.shields.io/badge/-pycharm-000?&logo=pycharm)
+![WebStorm](https://img.shields.io/badge/-webstorm-000?&logo=webstorm)
+![VScode](https://img.shields.io/badge/-visualstudio-000?&logo=visualstudio&logoColor=0066ff)
 
 
 <picture>
