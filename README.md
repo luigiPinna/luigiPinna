@@ -2,6 +2,8 @@
 
 ## Hi there I'm **Luigi** 👋
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=luigiPinna.luigiPinna)
+
 ### Work in progress bio 🛠
 
 - 🔭 I’m currently working @ [**Aevoluta**](https://www.aevoluta.com/) as a RPA & Back-end Developer 
@@ -19,7 +21,12 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
+
+###### Murkup
+
+![HTML](https://img.shields.io/badge/-html5-000?&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=004FF9)
+
 
 ### Technologies & Tools
 
