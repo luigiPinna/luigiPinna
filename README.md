@@ -1,17 +1,36 @@
 ![header](https://capsule-render.vercel.app/api?height=200&type=waving&text=Welcome%20To%20My%20GitHub&fontSize=40&animation=fadeIn&color=gradient&customColorList=4,3,2)
 
-## Hi there I'm **Luigi** 👋
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=luigiPinna.luigiPinna)
+
 
 ### Work in progress bio 🛠
 
-- 🔭 I’m currently working @ [**Aevoluta**](https://www.aevoluta.com/) as a RPA & Back-end Developer 
-- 👯 I’m looking to collaborate on Open Source projects
-- 🌱 I’m currently improving javascript
-- 📫 How to reach me: www.luigipinna.com
-- 📱  You can fin more information about me on [LinkedIn](https://www.linkedin.com/in/luigi-pinna-7a651656/)
 
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class WhoAmI:
+
+    def __init__(self):
+        self.name = "Luigi "
+        self.role = "RPA & Back-end Developer"
+        self.company = "Aevoluta"
+        self.hobbies = ["Run", "Surf"]
+        self.my_portfolio = "www.luigipinna.com"
+        self.improving_now = "Javascript"
+        
+
+    def say_hi(self):
+        print("Hi there I'm Luigi, hope you find some of my work interesting.")
+
+
+me = WhoAmI()
+me.say_hi()
+```
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=luigiPinna.luigiPinna)
 
 ### 🧬 Languages
 
