@@ -4,15 +4,22 @@
 
 ### Work in progress bio 🛠
 
-- 🔭 I’m currently working @ **Aevoluta** as a RPA & Back-end Developer 
+- 🔭 I’m currently working @ [**Aevoluta**](https://www.aevoluta.com/) as a RPA & Back-end Developer 
 - 👯 I’m looking to collaborate on Open Source projects
 - 🌱 I’m currently improving javascript
 - 📫 How to reach me: www.luigipinna.com
 - 📱  You can fin more information about me on [LinkedIn](https://www.linkedin.com/in/luigi-pinna-7a651656/)
 
 
-# 🔧 Technologies & Tools
+### Languages
 
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 
 
 
