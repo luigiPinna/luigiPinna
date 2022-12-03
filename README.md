@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?height=400&type=waving&text=Hello%World!&&theme=merko)
+![header](https://capsule-render.vercel.app/api?height=200&type=waving&text=Hello%World!&color=gradient)
 
 ## Hi there 👋
 
