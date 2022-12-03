@@ -2,10 +2,11 @@
 
 ### Work in progress bio 🛠
 
-- 🔭 I’m currently working @Aevoluta as a backend developer 
+- 🔭 I’m currently working @ **Aevoluta** as a RPA & Back-end Developer 
 - 👯 I’m looking to collaborate on Open Source projects
 - 🌱 I’m currently improving javascript
 - 📫 How to reach me: www.luigipinna.com
+- 📱  You can fin more information about me on [LinkedIn](https://www.linkedin.com/in/luigi-pinna-7a651656/)
 
 
 <picture>
