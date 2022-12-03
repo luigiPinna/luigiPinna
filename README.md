@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?text=Hello%World!&animation=fadeIn)
+
 ## Hi there 👋
 
 ### Work in progress bio 🛠
@@ -7,6 +9,11 @@
 - 🌱 I’m currently improving javascript
 - 📫 How to reach me: www.luigipinna.com
 - 📱  You can fin more information about me on [LinkedIn](https://www.linkedin.com/in/luigi-pinna-7a651656/)
+
+
+# 🔧 Technologies & Tools
+
+
 
 
 <picture>
