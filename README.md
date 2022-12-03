@@ -13,7 +13,7 @@
 - 📱  You can fin more information about me on [LinkedIn](https://www.linkedin.com/in/luigi-pinna-7a651656/)
 
 
-### Languages
+### 🧬 Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
@@ -28,7 +28,7 @@
 ![CSS](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=004FF9)
 
 
-### Technologies & Tools
+### 🔧 Technologies & Tools
 
 ![Azure](https://img.shields.io/badge/-microsoftazure-000?&logo=microsoftazure&logoColor=3399ff)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
@@ -40,6 +40,7 @@
 ![WebStorm](https://img.shields.io/badge/-webstorm-000?&logo=webstorm)
 ![VScode](https://img.shields.io/badge/-visualstudio-000?&logo=visualstudio&logoColor=0066ff)
 
+### 📈 GitHub Stats
 
 <picture>
 <source 
