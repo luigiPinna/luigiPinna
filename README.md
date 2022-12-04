@@ -54,7 +54,7 @@ me.say_hi()
 
 ### 📈 GitHub Stats
 
-<picture>
+<picture align="center">
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=luigiPinna&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
@@ -66,7 +66,7 @@ me.say_hi()
 <img src="https://github-readme-stats.vercel.app/api?username=luigiPinna&show_icons=true" />
 </picture>
 <br>
-<picture>
+<picture align="center">
   <source
    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=luigiPinna&layout=compact&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
@@ -82,9 +82,18 @@ me.say_hi()
 
 #### See More about me 👇
 
-<br>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/luigiLurby" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luigiLurby" height="30" width="40" /></a>
+    
+<a href="https://linkedin.com/in/luigi-pinna-7a651656" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luigi-pinna-7a651656" height="30" width="40" /></a>
+    
+<a href="https://instagram.com/reallurby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="reallurby" height="30" width="40" /></a>
+    
+<a href="https://www.leetcode.com/jontec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jontec" height="30" width="40" /></a>
+</p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/@luigiPinna)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/luigi-pinna-7a651656/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/reallurby/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/luigiLurby)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/Neat_Arm_8072)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.luigipinna.com)  
 
 <br>
 
