@@ -65,7 +65,7 @@ me.say_hi()
 />
 <img src="https://github-readme-stats.vercel.app/api?username=luigiPinna&show_icons=true" />
 </picture>
-<br>
+
 <picture align="center">
   <source
    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=luigiPinna&layout=compact&show_icons=true&theme=dark"
@@ -86,7 +86,6 @@ me.say_hi()
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luigiLurby" height="30" width="40" /></a>    
 <a href="https://linkedin.com/in/luigi-pinna-7a651656" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luigi-pinna-7a651656" height="30" width="40" /></a>   
 <a href="https://instagram.com/reallurby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="reallurby" height="30" width="40" /></a>    
-<a href="https://www.leetcode.com/jontec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jontec" height="30" width="40" /></a>
 </p>
 
 
