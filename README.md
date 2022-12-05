@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?height=200&type=waving&text=Welcome%20To%20My%20GitHub&fontSize=40&animation=fadeIn&color=gradient&customColorList=6)
 
-### Work in progress bio 🛠
 
 ```python
 
@@ -16,7 +15,7 @@ class WhoAmI:
         
 
     def say_hi(self):
-        print("Hi there I'm Luigi, hope you find some of my work interesting.")
+        print("Hi there 👋 I'm Luigi, hope you find some of my work interesting.")
 
 
 me = WhoAmI()
@@ -28,10 +27,10 @@ me.say_hi()
 ### 🧬 Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 ###### Murkup
@@ -54,32 +53,20 @@ me.say_hi()
 
 ### 📈 GitHub Stats
 
-<picture align="center">
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=luigiPinna&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
+<p align="center">
+<img 
+    src="https://github-readme-stats.vercel.app/api?username=luigiPinna&show_icons=true&theme=dark" 
+    width="49%" alt="Luigi's LeetCode Stats"
 />
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=luigiPinna&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+<img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luigiPinna&layout=compact&show_icons=true&theme=dark"
+    width="49%" alt="Luigi's Zhihu Stats"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=luigiPinna&show_icons=true" />
-</picture>
-
-<picture align="center">
-  <source
-   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=luigiPinna&layout=compact&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-          />
-  <source
-  srcset="https://github-readme-stats.vercel.app/api?username=luigiPinna&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=luigiPinna&show_icons=true" />
-</picture>
+</p>
 
 
-#### See More about me 👇
+
+#### 👇 See More about me
 
 <p>
 <a href="https://twitter.com/luigiLurby" target="blank">
@@ -88,6 +75,10 @@ me.say_hi()
 <a href="https://instagram.com/reallurby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="reallurby" height="30" width="40" /></a>    
 </p>
 
+<p align="center"> 
+<img
+    src="https://streak-stats.demolab.com?user=luigiPinna&theme=dark"
+    width="80%"
+/>
+</p>
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=luigiPinna&theme=dark)](https://git.io/streak-stats)
