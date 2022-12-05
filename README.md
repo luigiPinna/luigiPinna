@@ -75,10 +75,10 @@ me.say_hi()
 <a href="https://instagram.com/reallurby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="reallurby" height="30" width="40" /></a>    
 </p>
 
-<p align="center"> 
+<p> 
 <img
     src="https://streak-stats.demolab.com?user=luigiPinna&theme=dark"
-    width="80%"
+    width="60%"
 />
 </p>
 
