@@ -11,6 +11,7 @@ class WhoAmI:
         self.company = "Aevoluta"
         self.hobbies = ["Run", "Surf"]
         self.my_portfolio = "www.luigipinna.com"
+        self.interests = ["Web3", "Economics"]
         self.improving_now = "Javascript"
         
 
