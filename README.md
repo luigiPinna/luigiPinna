@@ -7,12 +7,12 @@ class WhoAmI:
 
     def __init__(self):
         self.name = "Luigi "
-        self.role = "RPA & Back-end Developer"
+        self.role = "Full Stack Developer"
         self.company = "Aevoluta"
         self.hobbies = ["Run", "Surf"]
         self.my_portfolio = "www.luigipinna.com"
-        self.interests = ["Web3", "Economics"]
-        self.improving_now = "Javascript"
+        self.interests = ["Ai", "Web3", "Economics"]
+        self.improving_now = "React, Javascript"
         
 
     def say_hi(self):
