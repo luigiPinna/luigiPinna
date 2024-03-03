@@ -52,21 +52,6 @@ me.say_hi()
 ![WebStorm](https://img.shields.io/badge/-webstorm-000?&logo=webstorm)
 ![VScode](https://img.shields.io/badge/-visualstudio-000?&logo=visualstudio&logoColor=0066ff)
 
-### 📈 GitHub Stats
-
-<p align="center">
-<img 
-    src="https://github-readme-stats.vercel.app/api?username=luigiPinna&show_icons=true&theme=dark" 
-    width="49%" alt="Luigi's LeetCode Stats"
-/>
-<img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luigiPinna&layout=compact&show_icons=true&theme=dark"
-    width="49%" alt="Luigi's Zhihu Stats"
-/>
-</p>
-
-
-
 #### 👇 See More about me
 
 <p>
