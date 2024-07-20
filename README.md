@@ -12,7 +12,7 @@ class WhoAmI:
         self.hobbies = ["Run", "Surf"]
         self.my_portfolio = "www.luigipinna.com"
         self.interests = ["Ai", "Web3", "Economics"]
-        self.improving_now = "React, Javascript"
+        self.improving_now = "React, Ai implementation"
         
 
     def say_hi(self):
