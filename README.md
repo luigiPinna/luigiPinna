@@ -6,7 +6,7 @@
 class WhoAmI:
 
     def __init__(self):
-        self.name = "Luigi "
+        self.name = "Luigi"
         self.role = "Full Stack Developer"
         self.company = "Aevoluta"
         self.hobbies = ["Run", "Surf"]
@@ -16,7 +16,8 @@ class WhoAmI:
         
 
     def say_hi(self):
-        print("Hi there 👋 I'm Luigi, hope you find some of my work interesting.")
+    return f"Hi there 👋 I'm {self.name.strip()}. I specialize in {self.role} at {self.company}. Welcome to my GitHub!"
+
 
 
 me = WhoAmI()
