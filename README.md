@@ -69,3 +69,5 @@ me.say_hi()
 />
 </p>
 
+### 📈 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=luigiPinna&show_icons=true&theme=radical" width="50%" />
