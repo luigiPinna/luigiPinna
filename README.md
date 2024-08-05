@@ -16,7 +16,7 @@ class WhoAmI:
         
 
     def say_hi(self):
-    return f"Hi there 👋 I'm {self.name.strip()}. I specialize in {self.role} at {self.company}. Welcome to my GitHub!"
+    return f"Hi there 👋 I'm {self.name}. I specialize in {self.role} at {self.company}. Welcome to my GitHub!"
 
 
 
