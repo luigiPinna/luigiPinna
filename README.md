@@ -26,7 +26,7 @@ me.say_hi()
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=luigiPinna.luigiPinna)
 
-### 🧬 Languages
+#### 👨‍💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
@@ -41,7 +41,7 @@ me.say_hi()
 ![CSS](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=004FF9)
 
 
-### 🔧 Technologies & Tools
+#### 🔧 Technologies & Tools
 
 ![Azure](https://img.shields.io/badge/-microsoftazure-000?&logo=microsoftazure&logoColor=3399ff)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
