@@ -56,10 +56,7 @@ me.say_hi()
 #### 👇 See More about me
 
 <p>
-<a href="https://twitter.com/luigiLurby" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luigiLurby" height="30" width="40" /></a>    
-<a href="https://linkedin.com/in/luigi-pinna-7a651656" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luigi-pinna-7a651656" height="30" width="40" /></a>   
-<a href="https://instagram.com/reallurby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="reallurby" height="30" width="40" /></a>    
+<a href="www.luigipinna.com" target="blank">  
 </p>
 
 <p> 
