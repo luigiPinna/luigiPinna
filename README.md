@@ -59,21 +59,13 @@ me.say_hi()
   <a href="https://www.luigipinna.com" target="_blank">
     <img src="https://img.shields.io/badge/-My%20Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://twitter.com/luigiLurby" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/luigi-pinna-7a651656" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/reallurby" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
 </p>
 
+### 📈 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=luigiPinna&show_icons=true&theme=radical" width="50%" />
 <p>
   <img src="https://streak-stats.demolab.com?user=luigiPinna&theme=dark" width="60%" />
 </p>
 
 
-### 📈 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=luigiPinna&show_icons=true&theme=radical" width="50%" />
+
