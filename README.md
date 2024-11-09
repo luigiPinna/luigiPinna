@@ -7,7 +7,7 @@ class WhoAmI:
 
     def __init__(self):
         self.name = "Luigi"
-        self.role = "Full Stack Developer"
+        self.role = "Software Engineer"
         self.company = "Aevoluta"
         self.hobbies = ["Run", "Surf"]
         self.my_portfolio = "www.luigipinna.com"
