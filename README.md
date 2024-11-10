@@ -1,6 +1,3 @@
-![header](https://capsule-render.vercel.app/api?height=200&type=waving&text=Welcome%20To%20My%20GitHub&fontSize=40&animation=fadeIn&color=gradient&customColorList=6)
-
-
 ```python
 
 class WhoAmI:
@@ -34,12 +31,6 @@ me.say_hi()
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-
-###### Murkup
-
-![HTML](https://img.shields.io/badge/-html5-000?&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=004FF9)
-
 
 #### 🔧 Technologies & Tools
 
