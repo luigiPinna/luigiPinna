@@ -1,24 +1,35 @@
+# 👋 Hello World, I am Luigi Pinna
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=500&lines=Software+Engineer+%7C+AI+Enthusiast;Passionate+about+Coding3+%26+Economics;Always+learning%2C+always+growing" alt="Typing SVG" />
+  
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=luigiPinna.luigiPinna)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-luigipinna.com-blue?style=flat&logo=firefox-browser&logoColor=white)](https://www.luigipinna.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+</div>
+
 ```python
-
 class WhoAmI:
-
     def __init__(self):
-        self.name = "Luigi"
+        self.name = "Luigi Pinna"
         self.role = "Software Engineer"
         self.company = "Aevoluta"
-        self.hobbies = ["Run", "Surf"]
-        self.my_portfolio = "www.luigipinna.com"
-        self.interests = ["Ai", "Web3", "Economics"]
-        self.improving_now = "React, Ai implementation"
-        
+        self.hobbies = ["Running", "Surfing", "Learning New Tech"]
+        self.portfolio = "www.luigipinna.com"
+        self.passions = ["AI", "Web3", "Economics"]
+        self.currently_learning = "Advanced React, AI Implementation, LLM Integration"
 
     def say_hi(self):
-    return f"Hi there 👋 I'm {self.name}. I specialize in {self.role} at {self.company}. Welcome to my GitHub!"
-
+        return f"""
+        👋 Hello World! I'm {self.name}.
+        💻 {self.role} at {self.company}
+        🚀 Building the future with code and creativity
+        🌊 When I'm not coding, you'll find me catching waves
+        """
 
 
 me = WhoAmI()
-me.say_hi()
+print(me.say_hi())
 ```
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=luigiPinna.luigiPinna)
