@@ -1,4 +1,4 @@
-# 👋 Hello World, I am Luigi Pinna
+# 👋 Hello World, I'm Luigi Pinna
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=500&lines=Software+Engineer+%7C+AI+Enthusiast;Passionate+about+Coding3+%26+Economics;Always+learning%2C+always+growing" alt="Typing SVG" />
@@ -13,7 +13,6 @@ class WhoAmI:
     def __init__(self):
         self.name = "Luigi Pinna"
         self.role = "Software Engineer"
-        self.company = "Aevoluta"
         self.hobbies = ["Running", "Surfing", "Learning New Tech"]
         self.portfolio = "www.luigipinna.com"
         self.passions = ["AI", "Web3", "Economics"]
@@ -74,11 +73,39 @@ print(me.say_hi())
   </a>
 </p>
 
-### 📈 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=luigiPinna&show_icons=true&theme=radical" width="50%" />
-<p>
-  <img src="https://streak-stats.demolab.com?user=luigiPinna&theme=dark" width="60%" />
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luigiPinna&show_icons=true&theme=tokyonight" width="48%" alt="Luigi's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luigiPinna&theme=tokyonight" width="48%" alt="Luigi's GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luigiPinna&layout=compact&theme=tokyonight" width="40%" alt="Luigi's Top Languages" />
+</div>
+
+## 📫 Let's Connect
+
+<div align="center">
+  <a href="https://www.luigipinna.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/luigipinna/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/luigilurby" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=twitter&logoColor=1DA1F2" alt="Twitter" />
+  </a>
+  <a href="mailto:luigipinna3@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Email" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <i>⚡ "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
+</div>
 
 
 
