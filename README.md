@@ -32,7 +32,17 @@ me = WhoAmI()
 print(me.say_hi())
 ```
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=luigiPinna.luigiPinna)
+#### 🧠 AI & Machine Learning Skills
+
+<div>
+
+![OpenAI](https://img.shields.io/badge/-OpenAI-000?&logo=openai&logoColor=412991)
+![Hugging Face](https://img.shields.io/badge/-HuggingFace-000?&logo=huggingface&logoColor=FFD21E)
+![AzureAi](https://img.shields.io/badge/-Azure_AI-000?&logo=microsoftazure&logoColor=0078D4)
+![NLTK](https://img.shields.io/badge/-NLTK-000?&logo=python&logoColor=3776AB)
+![NLP](https://img.shields.io/badge/-NLP-000?&logo=dialogflow&logoColor=FF9800)
+
+</div>
 
 #### 👨‍💻 Programming Languages
 
@@ -45,6 +55,7 @@ print(me.say_hi())
 
 #### 🔧 Technologies & Tools
 
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=fastapi&logoColor=009688)
 ![Azure](https://img.shields.io/badge/-microsoftazure-000?&logo=microsoftazure&logoColor=3399ff)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
