@@ -1,7 +1,7 @@
 # 👋 Hello World, I'm Luigi Pinna
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=500&lines=Software+Engineer+%7C+AI+Enthusiast;Passionate+about+Coding3+%26+Economics;Always+learning%2C+always+growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=500&lines=Software+Engineer+%7C+AI+Enthusiast;Passionate+about+Coding+%26+Economics;Always+learning%2C+always+growing" alt="Typing SVG" />
   
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=luigiPinna.luigiPinna)
   [![Portfolio](https://img.shields.io/badge/Portfolio-luigipinna.com-blue?style=flat&logo=firefox-browser&logoColor=white)](https://www.luigipinna.com)
