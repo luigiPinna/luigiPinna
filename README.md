@@ -21,7 +21,7 @@ class WhoAmI:
     def say_hi(self):
         return f"""
         👋 Hello World! I'm {self.name}.
-        💻 {self.role} at {self.company}
+        💻 {self.role}
         🚀 Building the future with code and creativity
         🌊 When I'm not coding, you'll find me catching waves
         """
