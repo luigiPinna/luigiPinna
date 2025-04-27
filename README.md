@@ -5,7 +5,7 @@
   
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=luigiPinna.luigiPinna)
   [![Portfolio](https://img.shields.io/badge/Portfolio-luigipinna.com-blue?style=flat&logo=firefox-browser&logoColor=white)](https://www.luigipinna.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luigiPinna)
 </div>
 
 ```python
