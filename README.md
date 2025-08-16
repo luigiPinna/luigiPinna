@@ -35,10 +35,12 @@ print(me.say_hi())
 <div>
 
 ![OpenAI](https://img.shields.io/badge/-OpenAI-000?&logo=openai&logoColor=412991)
-![Hugging Face](https://img.shields.io/badge/-HuggingFace-000?&logo=huggingface&logoColor=FFD21E)
-![AzureAi](https://img.shields.io/badge/-Azure_AI-000?&logo=microsoftazure&logoColor=0078D4)
-![NLTK](https://img.shields.io/badge/-NLTK-000?&logo=python&logoColor=3776AB)
 ![NLP](https://img.shields.io/badge/-NLP-000?&logo=dialogflow&logoColor=FF9800)
+![RAG](https://img.shields.io/badge/-RAG-000?&logo=elasticsearch&logoColor=005571)
+![AzureAi](https://img.shields.io/badge/-Azure_AI-000?&logo=microsoftazure&logoColor=0078D4)
+![Hugging Face](https://img.shields.io/badge/-HuggingFace-000?&logo=huggingface&logoColor=FFD21E)
+![NLTK](https://img.shields.io/badge/-NLTK-000?&logo=python&logoColor=3776AB)
+
 
 </div>
 
