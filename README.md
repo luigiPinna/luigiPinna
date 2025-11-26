@@ -15,7 +15,7 @@ class WhoAmI:
         self.role = "Software Engineer"
         self.hobbies = ["Running", "Surfing", "Learning New Tech"]
         self.portfolio = "www.luigipinna.com"
-        self.passions = ["AI", "Web3", "Economics"]
+        self.passions = ["coding", "AI", "Finance and Economics"]
         self.currently_learning = "Advanced React, AI Implementation, LLM Integration"
 
     def say_hi(self):
